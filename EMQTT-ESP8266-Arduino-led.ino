@@ -13,8 +13,8 @@
 #include <PubSubClient.h>
 
 
-const char* ssid = "Tenda_1F1000";
-const char* password = "13290109635";
+const char* ssid = "XXXXXXXXXXX";
+const char* password = "XXXXXXXXXXX";
 const char* mqtt_server = "119.29.244.94";
 
 WiFiClient espClient;
